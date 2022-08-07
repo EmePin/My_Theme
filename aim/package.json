@@ -1,0 +1,76 @@
+{
+  "name": "aim",
+  "displayName": "Aim Themes",
+  "description": "These are my favorite themes in Visual Studio Code.",
+  "version": "0.0.5",
+  "publisher": "EmeAim",
+  "icon":"icons/tema.png",
+  "author": {
+    "name": "Aimée",
+    "url": "https://www.linkedin.com/in/jahda%C3%AD-p-93aa091b5"
+  },
+  "repository": {
+    "url": "https://github.com/EmePin/My_Theme",
+    "type": "git"
+  },
+  "homepage": "https://github.com/EmePin/My_Theme",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aim-Black-and-Lima🍋",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lima.json"
+      },
+      {
+        "label": "Aim-kai-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kai.json"
+      },
+      {
+        "label": "Aim-Fav❤️",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fav.json"
+      }
+      ,
+      {
+        "label": "Aim-Hig📈",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mhs.json"
+      },
+      {
+        "label": "Aim-VS-2015",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs2015.json"
+      },
+      {
+        "label": "Aim-Joyful😄-Fork",
+        "uiTheme": "vs-dark",
+        "path": "./themes/joy.json"
+      },
+      {
+        "label": "Aim-Windows98",
+        "uiTheme": "vs-dark",
+        "path": "./themes/win98.json"
+      },
+      {
+        "label": "Aim-OneDarkProFork",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one.json"
+      }
+      ,
+      {
+        "label": "Aim-kai-light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kai2.json"
+      }
+
+    ]
+  },
+  "keywords": ["eme", "dark", "aim","light", "theme", "vscode"]
+}
